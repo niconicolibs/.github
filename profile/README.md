@@ -1,4 +1,4 @@
-## niconicoLibs
+## niconicolibs
 このOrganizationはニコニコ動画含めニコニコ関連サービスに関する**非公式**ライブラリを公開する**非公式**Organizationです。
 
 ### 公開中のライブラリ
